@@ -1,6 +1,6 @@
 # Petfinder Pawpularity
 
-This repository contains code for [PetFinder.my - Pawpularity Contest](https://www.kaggle.com/competitions/petfinder-pawpularity-score)
+This repository contains code for [PetFinder.my - Pawpularity Contest](https://www.kaggle.com/competitions/petfinder-pawpularity-score).
 
 ## Installation
 Install the requirements with: 
